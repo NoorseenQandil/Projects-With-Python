@@ -1,0 +1,2 @@
+Simple python program to build a GUI application for calendar.
+Enter year, then press on 'Show Calender' button to show the calender of year that you entered.

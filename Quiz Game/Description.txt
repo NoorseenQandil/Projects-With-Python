@@ -1,0 +1,2 @@
+Simple python programe to build a quiz game that asks the player questions about animals. 
+The player has only three chances to answer each question which gives the game more challenge and difficulty then print the player's end result.

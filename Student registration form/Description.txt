@@ -1,0 +1,3 @@
+Simple python programe to build student registeration form. 
+It includes some fields for student id, firstname, lastname, phone, address, email, and grade then press on 'Create new student file' button to save student data in a seperated text file in the folder location and print 'Done' as a message.
+Press on 'Exit' button to exit.
